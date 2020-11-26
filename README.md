@@ -1,2 +1,2 @@
 # DiceeChallenge
-A javascript based small game
+A javascript based small game.
